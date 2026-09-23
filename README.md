@@ -29,7 +29,6 @@ This notebook is not only about model accuracy. It is also about understanding h
 
 ## Repository Contents
 
-Suggested structure:
 
 - `evaluating-classification-models.ipynb` — main notebook
 - `confusion-heatmap-knn-svm.png` — test confusion matrix heatmaps
@@ -38,7 +37,6 @@ Suggested structure:
 - `both.png` — line plot comparing original and noisy scaled feature values
 - `noisy-noisefree.png` — histogram comparison of original and noisy feature distributions
 
-If your actual filenames differ slightly, replace the names below with the exact names in your repo.
 
 ---
 
@@ -284,7 +282,6 @@ This gives reproducible results.
 
 ---
 
-## Notebook Markdown Included Verbatim
 
 ### Evaluate the models
 
