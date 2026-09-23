@@ -1,4 +1,4 @@
-# Evaluating Classification Models on the Breast Cancer Dataset
+# Breast Cancer Classification (KNN vs. SVM)
 
 Using the breast cancer data set, we try to predict whether a tumor is benign or malignant. <br>
 The main goal is to be able to interpret data and the result. <br>
