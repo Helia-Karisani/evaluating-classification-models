@@ -74,7 +74,6 @@ The notebook installs the following packages:
 - `scikit-learn==1.6.0`
 - `seaborn==0.13.2`
 
-Note: the notebook currently contains `matpltlib==3.9.3`, which looks like a typo for `matplotlib==3.9.3`.
 
 ---
 
@@ -425,7 +424,6 @@ This suggests:
 - KNN may have a small amount of overfitting
 - SVM generalizes more cleanly on this noisy dataset
 
-The notebook also correctly points out that preprocessing before splitting may leak information across train and test sets, so these numbers should still be interpreted with that caution.
 
 ---
 
